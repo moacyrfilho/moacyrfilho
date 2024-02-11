@@ -7,8 +7,8 @@ My name is Moacyr Filho, 💎 Brazilian of the gems and ginga, ☎ electronics a
 ### 🏆 Academic records:
 - Electronics Technician - Technical School - City: Belo Horizonte - Country Brazil
 - CPOR - Brazilian army officer course - City: Belo Horizonte - Country Brazil
-- Degree in Electrical Engineering - PUC-MG - City: Belo Horizonte - Country: Brazil
-- Degree in Management - ESTACIO DE SA UNIVERSITY - City: Belo Horizonte - Country Brazil
+- Degree in Electrical Engineering - Puc-MG - City: Belo Horizonte - Country: Brazil
+- Degree in Management - Estácio de Sá University - City: Belo Horizonte - Country Brazil
 
 ###  🏆 Other courses:
 - Professional programming course - School: IEFP - City: Porto - Country: Portugal
