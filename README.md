@@ -1,16 +1,26 @@
-### Hi there 👋
+## ABOUT ME:
 
-<!--
-**moacyrfilho/moacyrfilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello everyone!!😉     
 
-Here are some ideas to get you started:
+My name is Moacyr Filho, 💎 Brazilian with gems and ginga, ☎ electronics and telecommunications professional, 🐔 supporter of Clube Atlético Mineiro (Galo doido) and, now, I am professionalizing in IT to develop programs to help people based on simple ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Academic records:
+- Electronics Technician - Technical School - City: Belo Horizonte - Country Brazil
+- CPOR - Brazilian army officer course - City: Belo Horizonte - Country Brazil
+- Degree in Electrical Engineering - PUC-MG - City: Belo Horizonte - Country: Brazil
+- Degree in Management - ESTACIO DE SA UNIVERSITY - City: Belo Horizonte - Country Brazil
+
+- ###  🏆 Other courses:
+- Professional programming course - School: IEFP - City: Porto - Country: Portugal
+- Professional course in HTML, CSS and JavaScript - School: IEFP - City: Porto - Country: Portugal
+- Professional course for SQL database development - School: IEFP - City: Porto - Country: Portugal
+
+### 📞 Contacts:
+- 📧Email: moacyrg.gomes.filho@gmail.com
+- <a href="https://www.linkedin.com/in/moacyr-filho-211556174/" target="_blank"> Linkedin</a>
+
+### 👨‍👨‍👧‍👧 My Future:
+- Develop programs focused on people and their coexistence.
+- Create more friendly graphical interfaces for older people.
+- Create motivation for young people to study and produce
+
