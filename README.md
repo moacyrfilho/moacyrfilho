@@ -20,7 +20,7 @@ My name is Moacyr Filho, 💎 Brazilian of the gems and ginga, ☎ electronics a
 - <a href="https://www.linkedin.com/in/moacyr-filho-211556174/" target="_blank"> Linkedin</a>
 
 ### 👨‍👨‍👧‍👧 My Future:
-- Develop programs focused on people and their coexistence.
+- Develop programs focused on people and their coexistences.
 - Create more friendly graphical interfaces for older people.
-- Create motivation for young people to study and produce
+- Create motivation for young people to study and produce.
 
