@@ -10,7 +10,7 @@ My name is Moacyr Filho, 💎 Brazilian with gems and ginga, ☎ electronics and
 - Degree in Electrical Engineering - PUC-MG - City: Belo Horizonte - Country: Brazil
 - Degree in Management - ESTACIO DE SA UNIVERSITY - City: Belo Horizonte - Country Brazil
 
-- ###  🏆 Other courses:
+###  🏆 Other courses:
 - Professional programming course - School: IEFP - City: Porto - Country: Portugal
 - Professional course in HTML, CSS and JavaScript - School: IEFP - City: Porto - Country: Portugal
 - Professional course for SQL database development - School: IEFP - City: Porto - Country: Portugal
