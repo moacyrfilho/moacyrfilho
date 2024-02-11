@@ -2,7 +2,7 @@
 
 Hello everyone!!😉     
 
-My name is Moacyr Filho, 💎 Brazilian with gems and ginga, ☎ electronics and telecommunications professional, 🐔 supporter of Clube Atlético Mineiro (Galo doido) and, now, I am professionalizing in IT to develop programs to help people based on simple ideas.
+My name is Moacyr Filho, 💎 Brazilian of the gems and ginga, ☎ electronics and telecommunications professional, 🐔 supporter of Clube Atlético Mineiro (Galo doido) and, now, I am professionalizing in IT to develop programs to help people based on simple ideas.
 
 ### 🏆 Academic records:
 - Electronics Technician - Technical School - City: Belo Horizonte - Country Brazil
