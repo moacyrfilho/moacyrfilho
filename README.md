@@ -17,7 +17,7 @@ My name is Moacyr Filho, 💎 Brazilian of the gems and ginga, ☎ electronics a
 
 ### 📞 Contacts:
 - [![Email] (https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] moacyrg.gomes.filho@gmail.com
-- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/moacyr-filho-211556174/)
+- [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moacyr-filho-211556174/)
 
 ### 📊 Stats:
 ![Moacyr GitHub stats](https://github-readme-stats.vercel.app/api?username=moacyrfilho&show_icons=true&theme=radical)
