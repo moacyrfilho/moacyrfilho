@@ -31,6 +31,6 @@ My name is Moacyr Filho, 💎 Brazilian of the gems and ginga, ☎ electronics a
 
 ### 🎯 My Future:
 - Develop programs focused on people and their coexistences.👨‍👩‍👧‍👦
-- Create more friendly graphical interfaces for older people.👍
+- Create more senior-friendly graphical interfaces.👍
 - Create motivation for young people to study and produce.😎
 
