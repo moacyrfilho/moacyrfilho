@@ -19,6 +19,8 @@ My name is Moacyr Filho, 💎 Brazilian of the gems and ginga, ☎ electronics a
 - 📧Email: moacyrg.gomes.filho@gmail.com
 - <a href="https://www.linkedin.com/in/moacyr-filho-211556174/" target="_blank"> Linkedin</a>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+
 ### 👨‍👨‍👧‍👧 My Future:
 - Develop programs focused on people and their coexistences.
 - Create more friendly graphical interfaces for older people.
