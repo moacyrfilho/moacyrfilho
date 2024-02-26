@@ -12,8 +12,12 @@ My name is Moacyr Filho, 💎 Brazilian of the gems and ginga, ☎ electronics a
 
 ###  🏆 Other courses:
 
-<div style="display inline_block"><br/>
+<div style="display inline_block">
   <img align="center" alt="html" src"https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img align="center" alt="css" src"https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
+   <img align="center" alt="html" src"https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img align="center" alt="html" src"https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
+   <img align="center" alt="html" src"https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 </div>
 - Professional programming course - School: IEFP - City: Porto - Country: Portugal
 - Professional course in HTML, CSS and JavaScript - School: IEFP - City: Porto - Country: Portugal
