@@ -16,7 +16,7 @@ My name is Moacyr Filho, 💎 Brazilian of the gems and ginga, ☎ electronics a
 - Professional course for SQL database development - School: IEFP - City: Porto - Country: Portugal
 
 ### 📞 Contacts:
-- [[!Email(https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] moacyrg.gomes.filho@gmail.com
+- [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] moacyrg.gomes.filho@gmail.com
 - <a href="https://www.linkedin.com/in/moacyr-filho-211556174/" target="_blank"> Linkedin</a>
 
 ### 📊 Stats:
