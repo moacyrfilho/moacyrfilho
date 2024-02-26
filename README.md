@@ -22,6 +22,11 @@ My name is Moacyr Filho, 💎 Brazilian of the gems and ginga, ☎ electronics a
   <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div>
 
+### 🎯 My Future:
+- Develop programs focused on people and their coexistences.👨‍👩‍👧‍👦
+- Create more senior-friendly graphical interfaces.👍
+- Create motivation for young people to study and produce.😎
+
 ### 📞 Contacts:
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](moacyrg.gomes.filho@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moacyr-filho-211556174/)
@@ -29,8 +34,5 @@ My name is Moacyr Filho, 💎 Brazilian of the gems and ginga, ☎ electronics a
 ### 📊 Score:
 ![Moacyr GitHub stats](https://github-readme-stats.vercel.app/api?username=moacyrfilho&show_icons=true&theme=radical)
 
-### 🎯 My Future:
-- Develop programs focused on people and their coexistences.👨‍👩‍👧‍👦
-- Create more senior-friendly graphical interfaces.👍
-- Create motivation for young people to study and produce.😎
+
 
