@@ -11,6 +11,9 @@ My name is Moacyr Filho, 💎 Brazilian of the gems and ginga, ☎ electronics a
 - Degree in Management - Estácio de Sá University - City: Belo Horizonte - Country Brazil
 
 ###  🏆 Other courses:
+
+<div style="display inline_block"><br/>
+  <img align="center" alt="html" src"https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/>
 - Professional programming course - School: IEFP - City: Porto - Country: Portugal
 - Professional course in HTML, CSS and JavaScript - School: IEFP - City: Porto - Country: Portugal
 - Professional course for SQL database development - School: IEFP - City: Porto - Country: Portugal
