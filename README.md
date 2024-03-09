@@ -29,7 +29,7 @@ My name is Moacyr Filho, 💎 Brazilian of the gems and ginga, ☎ electronics a
 - Create motivation for young people to study and produce.😎
 
 ### 📞 My Contacts:
-<a href = "mailto:moacyrg.gomes.filho@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:moacyrg.gomes.filho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moacyr-filho-211556174/)
 
 ### 📊 My Score:
