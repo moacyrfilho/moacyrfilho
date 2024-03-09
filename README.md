@@ -30,7 +30,7 @@ My name is Moacyr Filho, 💎 Brazilian of the gems and ginga, ☎ telecommunica
 
 ### 📞 My Contacts:
 <a href = "mailto:moacyrg.gomes.filho@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/moacyr-filho-211556174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/moacyr-filho-211556174/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 ### 📊 My Score:
 ![Moacyr GitHub stats](https://github-readme-stats.vercel.app/api?username=moacyrfilho&show_icons=true&theme=radical)
